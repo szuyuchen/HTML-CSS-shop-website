@@ -4,9 +4,11 @@
 
 - Use HTML and CSS to create an accessory shop website. (unfinished)
 
-#### 10/16: Navbar and Shop gallery area checked.
+#### 10/16: Navbar and Shop gallery area completed.
 
 #### 10/17: Resized images and created About area.
+
+#### 10/18: Footer and bottom area completed.
 
 <img src="https://github.com/szuyuchen/HTML-CSS-shop-website/blob/main/sample-image.png?raw=true" width=500>
 
